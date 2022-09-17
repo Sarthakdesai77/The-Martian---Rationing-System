@@ -31,4 +31,5 @@ You are part of the Ares III mission to Mars exploring “Acidalia Planitia” p
     2. Each of the supply packets will not have rations more than your daily requirement of 2500 calories or 2 liters. Also, there should not be any leftovers, i.e your allowed to choose packets (food or water) that exceed your daily requirement but the amount exceeded cannot be used another day.
     3. If water packets run out before food supply (or vice versa), the schedule should stop on that day and consider it as last surviving day of the Martian
 
-![alt text](http://url/to/img.png)
+![alt text](https://drive.google.com/file/d/1MGgFTNmehnzb6eLXxzgiU0utFtjnVhks/view?usp=sharing)
+![alt text](https://drive.google.com/file/d/1yIHHAuzF27si4v4OXgi8yASfVxmlT6gO/view?usp=sharing)
